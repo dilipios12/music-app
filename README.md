@@ -17,15 +17,15 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```
 
 In the output, you'll find options to open the app in 🎵 Song Screen 1
-<img src="https://raw.githubusercontent.com/dilipios12/music-app/assets/song1.png" width="300">
+![song6](https://raw.githubusercontent.com/dilipios12/music-app/main/assets/song1.png)
 🎵 Song Screen 2
-<img src="https://raw.githubusercontent.com/dilipios12/music-app/assets/song2.png" width="300">
+![song6](https://raw.githubusercontent.com/dilipios12/music-app/main/assets/song2.png)
 🎵 Song Screen 3
-<img src="https://raw.githubusercontent.com/dilipios12/music-app/assets/song3.png" width="300">
+![song6](https://raw.githubusercontent.com/dilipios12/music-app/main/assets/song3.png)
 🎵 Song Screen 4
-<img src="https://raw.githubusercontent.com/dilipios12/music-app/assets/song4.png" width="300">
+![song6](https://raw.githubusercontent.com/dilipios12/music-app/main/assets/song4.png)
 🎵 Song Screen 5
-<img src="https://raw.githubusercontent.com/dilipios12/music-app/assets/song5.png" width="300">
+![song6](https://raw.githubusercontent.com/dilipios12/music-app/main/assets/song5.png)
 🎵 Song Screen 6
 ![song6](https://raw.githubusercontent.com/dilipios12/music-app/main/assets/song6.png)
 
