@@ -27,7 +27,8 @@ In the output, you'll find options to open the app in 🎵 Song Screen 1
 🎵 Song Screen 5
 <img src="https://raw.githubusercontent.com/dilipios12/music-app/assets/song5.png" width="300">
 🎵 Song Screen 6
-<img src="https://raw.githubusercontent.com/dilipios12/music-app/assets/song6.png" width="300">
+![song6](https://raw.githubusercontent.com/dilipios12/music-app/main/assets/song6.png)
+
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
