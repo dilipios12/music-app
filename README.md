@@ -13,8 +13,17 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 2. Start the app
 
    ```bash
-   npx expo start
+  /android
+/ios
+/app
+  └── screens
+  └── components
+App.js
+index.js
    ```
+
+npx react-native run-android
+
 
 In the output, you'll find options to open the app in 🎵 Song Screen 1
 ![song6](https://raw.githubusercontent.com/dilipios12/music-app/main/assets/song1.png)
